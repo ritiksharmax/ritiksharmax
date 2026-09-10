@@ -1,17 +1,13 @@
 <div align="center">
 
-  <!-- DUAL THEME HEADER BANNER -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=1,13,24&height=180&section=header&text=Ritik%20Sharma&fontSize=62&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Scientific%20Computing%20%E2%80%A2%20Systems&descFontSize=18&descAlignY=70&fontColor=ffffff&stroke=00f2fe&strokeWidth=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,12,24&height=180&section=header&text=Ritik%20Sharma&fontSize=62&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Scientific%20Computing%20%E2%80%A2%20Systems&descFontSize=18&descAlignY=70&fontColor=ffffff&stroke=0969da&strokeWidth=1">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=1,13,24&height=180&section=header&text=Ritik%20Sharma&fontSize=62&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Scientific%20Computing%20%E2%80%A2%20Systems&descFontSize=18&descAlignY=70&fontColor=ffffff" width="100%" alt="Header Banner"/>
-  </picture>
+  <!-- HEADER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=1,13,24&height=180&section=header&text=Ritik%20Sharma&fontSize=62&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Scientific%20Computing%20%E2%80%A2%20Systems&descFontSize=18&descAlignY=70&fontColor=ffffff&stroke=00f2fe&strokeWidth=1" width="100%" alt="Header Banner"/>
 
-  <!-- DUAL THEME TYPING SVG (Cyan for Dark Mode, Deep Indigo/Blue for Light Mode) -->
+  <!-- TYPING SVG (Optimized with high contrast for both light & dark mode) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=700&height=35&lines=LLM+Inference+Engines+%26+Model+Optimization;Scientific+ML+%26+Computational+Neural+Surrogates;Distributed+Training+%26+GPU+Kernel+Acceleration;High-Performance+AI+Systems+%26+CUDA">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=0969DA&center=true&vCenter=true&multiline=false&width=700&height=35&lines=LLM+Inference+Engines+%26+Model+Optimization;Scientific+ML+%26+Computational+Neural+Surrogates;Distributed+Training+%26+GPU+Kernel+Acceleration;High-Performance+AI+Systems+%26+CUDA">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=0969DA&center=true&vCenter=true&multiline=false&width=700&height=35&lines=LLM+Inference+Engines+%26+Model+Optimization;Scientific+ML+%26+Computational+Neural+Surrogates;Distributed+Training+%26+GPU+Kernel+Acceleration;High-Performance+AI+Systems+%26+CUDA" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=0550AE&center=true&vCenter=true&multiline=false&width=700&height=35&lines=LLM+Inference+Engines+%26+Model+Optimization;Scientific+ML+%26+Computational+Neural+Surrogates;Distributed+Training+%26+GPU+Kernel+Acceleration;High-Performance+AI+Systems+%26+CUDA">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=0550AE&center=true&vCenter=true&multiline=false&width=700&height=35&lines=LLM+Inference+Engines+%26+Model+Optimization;Scientific+ML+%26+Computational+Neural+Surrogates;Distributed+Training+%26+GPU+Kernel+Acceleration;High-Performance+AI+Systems+%26+CUDA" alt="Typing SVG" />
   </picture>
 
   <br/><br/>
@@ -57,12 +53,7 @@ class Engineer:
 ### 🛠️ Tech Stack & Systems
 
 <div align="center">
-  <!-- DUAL THEME SKILL ICONS -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,python,cpp,rust,docker,linux,fastapi,git,aws,postgres&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,python,cpp,rust,docker,linux,fastapi,git,aws,postgres&theme=light">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,cpp,rust,docker,linux,fastapi,git,aws,postgres&theme=dark" alt="Tech Stack"/>
-  </picture>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,cpp,rust,docker,linux,fastapi,git,aws,postgres&theme=dark" alt="Tech Stack"/>
 </div>
 
 <br/>
