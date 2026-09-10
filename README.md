@@ -65,21 +65,6 @@ class Engineer:
 
 ---
 
-### 📂 Projects & Repositories
-
-<!-- AUTO_PROJECTS:START -->
-
-
-- **[probe](https://github.com/ritiksharmax/probe)** `Python` ⭐ 1 — Machine learning & systems engineering project.
-- **[Data-Compression](https://github.com/ritiksharmax/Data-Compression)** — Machine learning & systems engineering project.
-- **[Mechanistic](https://github.com/ritiksharmax/Mechanistic)** — Machine learning & systems engineering project.
-- **[Turboquant-GPT-2](https://github.com/ritiksharmax/Turboquant-GPT-2)** `Python` — Machine learning & systems engineering project.
-
-
-<!-- AUTO_PROJECTS:END -->
-
----
-
 <div align="center">
   <sub>Built for high-performance machine learning & scientific computing systems.</sub>
 </div>
