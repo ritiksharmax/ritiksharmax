@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=1,13,24&height=180&section=header&text=Ritik%20Sharma&fontSize=62&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Scientific%20Computing%20%E2%80%A2%20Systems&descFontSize=18&descAlignY=70&fontColor=ffffff&stroke=00f2fe&strokeWidth=1" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=220&section=header&text=Ritik%20Sharma&fontSize=64&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Scientific%20Computing%20%E2%80%A2%20Systems&descFontSize=19&descAlignY=62&fontColor=ffffff" width="100%" alt="Header Banner"/>
 
   <!-- TYPING SVG (Optimized with high contrast for both light & dark mode) -->
   <picture>
