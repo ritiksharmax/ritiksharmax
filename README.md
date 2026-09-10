@@ -12,6 +12,9 @@
     <a href="https://linkedin.com/in/ritik-sharma-3417041b8/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Ritik%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
+    <a href="https://x.com/ritiksharmatrix" target="_blank">
+      <img src="https://img.shields.io/badge/X-%40ritiksharmatrix-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    </a>
     <a href="mailto:ritiksharma009999@gmail.com">
       <img src="https://img.shields.io/badge/Email-ritiksharma009999%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
