@@ -79,22 +79,15 @@ class Engineer:
 
 ---
 
-### 📊 Telemetry
+### 📑 Research Log & Papers Studied
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ritiksharmax&show_icons=true&theme=tokyonight&hide_border=false&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&icon_color=ff007f&text_color=c9d1d9&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritiksharmax&layout=compact&theme=tokyonight&hide_border=false&border_color=7928ca&bg_color=0d1117&title_color=7928ca&text_color=c9d1d9" height="175" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritiksharmax&theme=tokyonight&hide_border=false&border=00f2fe&background=0d1117&ring=00f2fe&fire=ff007f&currStreakLabel=00f2fe" width="85%" alt="Streak Stats"/>
-</div>
+| Paper / Architecture | Domain | Key Technical Focus |
+| :--- | :--- | :--- |
+| **[DeepSeek-V3 / R1 Architecture](https://arxiv.org/abs/2412.19437)** | Reasoning & MoE Systems | Multi-head Latent Attention (MLA), FP8 mixed precision training, load-balanced routing |
+| **[FlashAttention-3](https://arxiv.org/abs/2407.08608)** | GPU Kernel Optimization | Asynchronous WGMMA tensor core operations on Hopper, warp-specialization |
+| **[Mamba-2 & State Space Duality](https://arxiv.org/abs/2405.21060)** | Sequence Modeling | Structured State Space duality with semi-separable matrices and hardware efficiency |
+| **[Fourier Neural Operators (FNO)](https://arxiv.org/abs/2010.08895)** | Scientific ML / PDEs | Mesh-independent operator learning for parametric partial differential equations |
+| **[vLLM / PagedAttention](https://arxiv.org/abs/2309.06180)** | LLM Serving Systems | Non-contiguous virtual memory allocation for KV-cache, reducing fragmentation to <4% |
 
 ---
 
@@ -116,6 +109,23 @@ class Engineer:
     </td>
   </tr>
 </table>
+
+---
+
+### 📊 Telemetry
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ritiksharmax&show_icons=true&theme=tokyonight&hide_border=false&border_color=00f2fe&bg_color=0d1117&title_color=00f2fe&icon_color=ff007f&text_color=c9d1d9&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritiksharmax&layout=compact&theme=tokyonight&hide_border=false&border_color=7928ca&bg_color=0d1117&title_color=7928ca&text_color=c9d1d9" height="175" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
