@@ -65,19 +65,18 @@ class Engineer:
 
 ---
 
-### ⚡ Selected Engineering & Projects
+### 📂 Projects & Repositories
 
-#### ⚡ [InferScope](https://github.com/ritiksharmax/inferscope)
-> High-efficiency memory profiling and latency benchmarking toolkit for LLMs and deep learning inference pipelines.
-- **Key Capabilities:** TTFT (Time to First Token) profiling, KV-cache memory dynamics, throughput optimization.
-- **Stack:** `Python` `PyTorch` `CUDA` `vLLM` `HuggingFace`
+<!-- AUTO_PROJECTS:START -->
 
-<br/>
 
-#### 🔬 [Scientific ML & Neural Surrogates](https://github.com/ritiksharmax)
-> Physics-Informed Neural Networks (PINNs) and deep neural operator architectures for accelerated numerical simulation of physical and biological systems.
-- **Key Capabilities:** Mesh-independent operator learning, PDE surrogate modeling, accelerated numerical solvers.
-- **Stack:** `JAX` `SciPy` `PINNs` `Polars` `NumPy`
+- **[probe](https://github.com/ritiksharmax/probe)** `Python` ⭐ 1 — Machine learning & systems engineering project.
+- **[Data-Compression](https://github.com/ritiksharmax/Data-Compression)** — Machine learning & systems engineering project.
+- **[Mechanistic](https://github.com/ritiksharmax/Mechanistic)** — Machine learning & systems engineering project.
+- **[Turboquant-GPT-2](https://github.com/ritiksharmax/Turboquant-GPT-2)** `Python` — Machine learning & systems engineering project.
+
+
+<!-- AUTO_PROJECTS:END -->
 
 ---
 
